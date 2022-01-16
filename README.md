@@ -68,7 +68,7 @@ QR_decom(a)
 
 ## Output
 
-![QRdecomposition](QR.png)
+![eqn1](./QR.jpg)
 
 
 
